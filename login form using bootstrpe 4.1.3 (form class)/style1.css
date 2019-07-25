@@ -1,0 +1,29 @@
+
+
+
+ .img {
+border-radius: 110px;
+padding:50px;
+
+}
+
+.b{
+background-color: white;
+}
+
+
+.a{
+  
+  background-color: #6c757d26;
+}
+
+
+
+
+.btn{
+  color: white;
+  background-color: #2d80b5;
+
+}
+input[type="text"], input[type="password"]{
+  background-color:#e2dfdf36;

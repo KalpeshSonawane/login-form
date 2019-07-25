@@ -1,0 +1,28 @@
+
+
+
+ .img {
+border-radius: 110px;
+padding:50px;
+
+}
+
+
+.card {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19);
+}
+
+
+.a{
+  
+  background-color: #6c757d26;
+}
+
+
+.btn{
+  color: white;
+  background-color: #2d80b5;
+
+}
+input[type="text"], input[type="password"]{
+  background-color:#e2dfdf36;
